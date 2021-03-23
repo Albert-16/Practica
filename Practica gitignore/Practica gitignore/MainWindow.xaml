@@ -17,9 +17,8 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <Button Grid.Column="0" Grid.Row="0" Content="Another One" FontSize="14" Height="150" Width="200"/>
         <Button Grid.Column="0" Grid.Row="1" Content="Elimanacion" FontSize="14" Height="150" Width="200"/>
-        <Button Grid.Column="1" Grid.Row="0" Content="Insercion" FontSize="14" Height="150" Width="200"/>
-        <Button Grid.Column="1" Grid.Row="11" Content="Modificacion" FontSize="14" Height="150" Width="200"/>
+       
+      
     </Grid>
 </Window>
