@@ -17,9 +17,9 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <Button Grid.Column="0" Grid.Row="0" Content="Presiona Here" FontSize="14"/>
-        <Button Grid.Column="0" Grid.Row="1" Content="Presiona Here" FontSize="14"/>
-        <Button Grid.Column="1" Grid.Row="0" Content="Presiona Here" FontSize="14"/>
-        <Button Grid.Column="1" Grid.Row="11" Content="Presiona Here" FontSize="14"/>
+        <Button Grid.Column="0" Grid.Row="0" Content="Presiona Here" FontSize="14" Height="150" Width="200"/>
+        <Button Grid.Column="0" Grid.Row="1" Content="Presiona Here" FontSize="14" Height="150" Width="200"/>
+        <Button Grid.Column="1" Grid.Row="0" Content="Presiona Here" FontSize="14" Height="150" Width="200"/>
+        <Button Grid.Column="1" Grid.Row="11" Content="Presiona Here" FontSize="14" Height="150" Width="200"/>
     </Grid>
 </Window>
